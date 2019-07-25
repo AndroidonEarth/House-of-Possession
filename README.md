@@ -1,5 +1,5 @@
 # House of Possession
-Short survival/horror/text adventure game written in C++
+Survival/horror/text adventure game written in C++ and played in the console.
 
 Game loop inspired by classic survival/horror games such as Haunted House for the Atari 2600, Alone in the Dark for DOS Windows PC, and Resident Evil for the Playstation, as well as more modern games such as Amnesia: the Dark Descent.
 
